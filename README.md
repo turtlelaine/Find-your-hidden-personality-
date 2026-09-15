@@ -18,6 +18,7 @@ And slowly became uncanny like:
 You'll see the real "personality result" at last, and also since you didn't read all the terms of use and privacy policy, you ignored the fact that you sent yourself into a contract you can no longer leave.  
 
 ## Draft vs Final image  
+final:  
 <img width="1680" height="1050" alt="截圖 2026-09-15 20 02 55" src="https://github.com/user-attachments/assets/604e1544-c674-4efb-8365-cdce4705c45b" />
 <img width="1680" height="1050" alt="截圖 2026-09-15 20 02 49" src="https://github.com/user-attachments/assets/248b096f-c115-454b-b31b-c9380caaabad" />
 <img width="1680" height="1050" alt="截圖 2026-09-15 20 02 46" src="https://github.com/user-attachments/assets/5c963b0e-6692-4bc7-be3f-0767a8033eba" />
