@@ -26,6 +26,10 @@ For full functionality (camera, notifications, geolocation), serve it over local
 ## Disclaimer
 
 This is a satirical media art project. No data was actually collected, stored, or transferred. No organs will be harvested. Probably. :)  
+  
+## Reviews from complete human  
+  
+  <img width="1920" height="1080" alt="Blue and Yellow Color Blocks Stickers Team Meeting Agenda Presentation" src="https://github.com/user-attachments/assets/c6eecd0c-3f4a-40fd-a5c5-2b56d15316a4" />
 
 ## AI disclosure  
 This project contains usage of AI assist. Code was written with assistance of Claude AI (for .html template, enhance writing), DeepSeek (fine-tuning effects) and Google Translate (Translation).  
