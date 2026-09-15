@@ -13,7 +13,7 @@ And slowly became uncanny like:
 `Q？？. Will you choose option C in this question?`  
 `Q10. Do you check everything for REAL?`  
   
-<img width="1680" height="1050" alt="截圖 2026-09-15 20 02 49" src="https://github.com/user-attachments/assets/4e2e0e69-d420-47d9-99ff-68d6bc8da278" />  
+<img width="1680" height="1050" alt="截圖 2026-09-15 20 02 58" src="https://github.com/user-attachments/assets/31776988-b1d6-4f6f-a02c-4a71e7367202" />  
   
 You'll see the real "personality result" at last, and also since you didn't read all the terms of use and privacy policy, you ignored the fact that you sent yourself into a contract you can no longer leave.  
   
