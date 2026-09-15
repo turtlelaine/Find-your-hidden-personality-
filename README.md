@@ -29,8 +29,8 @@ This is a satirical media art project. No data was actually collected, stored, o
   
 ## Reviews from complete human  
   
-  <img width="1920" height="1080" alt="Blue and Yellow Color Blocks Stickers Team Meeting Agenda Presentation" src="https://github.com/user-attachments/assets/c6eecd0c-3f4a-40fd-a5c5-2b56d15316a4" />
-
+<img width="1920" height="1080" alt="Blue and Yellow Color Blocks Stickers Team Meeting Agenda Presentation (1)" src="https://github.com/user-attachments/assets/25a69ee8-3895-431a-ba6d-88c8196a5596" />  
+  
 ## AI disclosure  
 This project contains usage of AI assist. Code was written with assistance of Claude AI (for .html template, enhance writing), DeepSeek (fine-tuning effects) and Google Translate (Translation).  
 All questions, visuals, concept, script were made by me.
