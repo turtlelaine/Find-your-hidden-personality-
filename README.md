@@ -19,7 +19,6 @@ You'll see the real "personality result" at last, and also since you didn't read
 
 ## Draft vs Final image  
 Final:  
-<img width="1680" height="1050" alt="截圖 2026-09-15 20 02 49" src="https://github.com/user-attachments/assets/248b096f-c115-454b-b31b-c9380caaabad" />
 <img width="1680" height="1050" alt="截圖 2026-09-15 20 02 46" src="https://github.com/user-attachments/assets/5c963b0e-6692-4bc7-be3f-0767a8033eba" />
 <img width="1680" height="1050" alt="截圖 2026-09-15 20 02 45" src="https://github.com/user-attachments/assets/f30ef736-246a-437b-b2f9-1e7c66fb2979" />
 <img width="1680" height="1050" alt="截圖 2026-09-15 20 02 37" src="https://github.com/user-attachments/assets/f24f58ea-ee51-4398-9566-8947215f6e3e" />
